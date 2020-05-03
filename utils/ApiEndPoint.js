@@ -1,0 +1,1 @@
+export const GET_TABLE_LIST = "/api/v1/search_by_date";
